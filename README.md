@@ -3,7 +3,9 @@
 
 ### Set-Up Back-End
 Clone back-end repo: ```git clone https://github.com/turingschool-examples/movie-tracker.git```
+
 Run ```npm install``` from root directory
+
 Run ```npm start```
 
 ### Set-Up Front-End
