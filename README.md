@@ -9,12 +9,10 @@ Run ```npm install``` from root directory
 Run ```npm start```
 
 ### Set-Up Front-End
-Clone this repo: ```git clone git@github.com:kaohman/movie-tracker-app.git```
+Clone this repo: ```git clone git@github.com:geet084/movie-tracker-app.git```
 Run ```npm install``` from root directory
 Run ```npm start``` and visit localhost:3001 in your browser
 
-### Deployed Website
-[Movie Tracker](https://movie-trackr-1810.herokuapp.com/)
 
 #### Background/About
 This is a Movie Tracker app where users can view popular movies and sign-in to track their favorites. This project was our first app using Redux, React Router, and making fetch calls to a Postgres database. View original assigment [here](https://github.com/turingschool-examples/movie-tracker).
